@@ -28,8 +28,10 @@
 -------
 
 .. toctree::
-
+   :maxdepth: 2
    圣经与至高者的来历
    你见过至高者吗？
    认知观 就是一个人的信仰
    我到底信了什么？
+   usage/installation
+   usage/quickstart
