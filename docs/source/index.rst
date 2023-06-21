@@ -24,6 +24,10 @@
 
    本文刚开始写不久，还有很多主题待我慢慢道来。
 
+- Whether you are a documentation author, a project administrator, a developer, or a designer,
+  you can follow our how-to guides that cover specific tasks,
+  available under :doc:`usage`.
+
 漫谈主题
 -------
 
